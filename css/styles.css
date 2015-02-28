@@ -1,0 +1,29 @@
+img {
+  border: 2px solid black;
+  padding: 10px;
+}
+h1,
+h2 {
+  font-family: Helvetica;
+  padding-bottom: 5px;
+}
+h1 {
+  color: orange;
+}
+h2 {
+  border-bottom: 1px solid black;
+}
+p, ul, li {
+  font-family: Arial;
+}
+li {
+  list-style-type: square;
+}
+a {
+  color: #0000FF;
+}
+main {
+}
+#contact-me {
+  color: orange;
+}
